@@ -32,6 +32,3 @@ I’m a curious engineer who enjoys unraveling complex datasets, crafting predic
 
 Feel free to explore my repositories, contribute, or reach out for collaborations. Happy coding! 🚀  
 
----
-
-Let me know if you'd like to add specific project links, more details, or adjust the tone!
